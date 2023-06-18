@@ -1,4 +1,4 @@
-![aanjaOS](https://raw.githubusercontent.com/aanjaos/.github/main/profile/banner.png)
+![aanjaOS](https://raw.githubusercontent.com/aanjaos/.github/main/profile/aanjaosbanner.png)
 
 # aanjaneya_meaowOS
 
