@@ -23,7 +23,7 @@ Everything Starts From [Here](https://github.com/aanjaos/manifest), Repo Says Wh
 - [Twitter](https://twitter.com/@AlrightOS)
 - [Instagram](https://instagram.com/aanjaos)
 - [GitHub](https://github.com/aanjaos)
-- [Discord](https://discord.gg/aanjaos)
+- [Discord](https://discord.gg/HSkTF4yX)
 
  ## Credits
 ---------
