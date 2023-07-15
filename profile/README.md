@@ -20,7 +20,7 @@ Everything Starts From [Here](https://github.com/aanjaos/manifest), Repo Says Wh
 - E-Mail: help@aanjaos.xyz
 - [Telegram (Channel)](https://t.me/aanjaOS_updates)
 - [Telegram (Chat)](https://t.me/aanjaos)
-- [Twitter](https://twitter.com/@AlrightOS)
+- [Twitter](https://twitter.com/@aanjaOS)
 - [Instagram](https://instagram.com/aanjaos)
 - [GitHub](https://github.com/aanjaos)
 - [Discord](https://discord.gg/HSkTF4yX)
@@ -28,5 +28,5 @@ Everything Starts From [Here](https://github.com/aanjaos/manifest), Repo Says Wh
  ## Credits
 ---------
 
-- [ArrowOS](https://github.com/ArrowOS)
+- [@ArrowOS](https://github.com/ArrowOS)
 - [@Alright-Team](https://github.com/Alright-Team)
