@@ -2,12 +2,12 @@
 
 # aanjaneya_meaowOS
 
-aanjaneya_meaowOS is an Android Custom ROM Based ArrowOS, you can say ARROW-FORKED or anything, me and my team don't care so much sorry.   
+aanjaneya_meaowOS is an Android Custom ROM Based LineageOS, you can say LineageOS-Forked or anything, me and my team don't care so much sorry.   
 
 -------------------------------
 Supported Android Versions
 
-- T (Android 13) 
+- U (Android 14) 
 
 ## Starting From Source
 ---------
@@ -18,15 +18,13 @@ Everything Starts From [Here](https://github.com/aanjaos/manifest), Repo Says Wh
 ---------
 - [Website](https://aanjaos.xyz/)
 - E-Mail: help@aanjaos.xyz
-- [Telegram (Channel)](https://t.me/aanjaOS_updates)
-- [Telegram (Chat)](https://t.me/aanjaos)
+- [Telegram (Channel)](https://t.me/aanjaOS)
 - [Twitter](https://twitter.com/@aanjaOS)
 - [Instagram](https://instagram.com/aanjaos)
 - [GitHub](https://github.com/aanjaos)
-- [Discord](https://discord.gg/HSkTF4yX)
 
  ## Credits
 ---------
 
-- [@ArrowOS](https://github.com/ArrowOS)
+- [@LineageOS](https://github.com/LineageOS)
 - [@Alright-Team](https://github.com/Alright-Team)
